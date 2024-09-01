@@ -1,1 +1,1 @@
-some type of autocorrect idk
+Curently, works on levenshtein's distance, plan to implement trees to decide words later and perhaps an NLP model sometime
