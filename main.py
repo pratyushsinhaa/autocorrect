@@ -26,6 +26,6 @@ def autocorrect(input_word, dictionary):
 
 # use
 dictionary = ["NVDA", "MSFT", "AAPL", "HDFCBANK", "HCC","HINDCOPPER","ASTS"]
-input_word = "NSFT"
+input_word = "MVDA"
 corrected_word = autocorrect(input_word, dictionary)
 print(f"Did you mean: {corrected_word}?")
